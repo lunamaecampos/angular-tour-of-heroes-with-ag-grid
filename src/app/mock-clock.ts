@@ -1,0 +1,1 @@
+export const TIME: Date = new Date();
